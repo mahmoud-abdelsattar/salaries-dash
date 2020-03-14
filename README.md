@@ -4,7 +4,7 @@ A dashboard for Machine Learning and Data Scientist Salaries Dashboard!
 
 ![dashboard](res/dash.png)
 
-the dashboard runs in the local host, it's still a little bit slow, but that's an early version, most probably i will be working on it's performance.
+### Run dashboard on local host, it's still a little bit slow, but that's an early version, most probably i will be working on it's performance.
 
 ## Installation
 
