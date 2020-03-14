@@ -41,6 +41,9 @@ Jump into the link and you will directed to the Dashboard page
 
 ![landing](res/landing.png)
 
+## Heroku Live Link
+## https://salaies-dashboard.herokuapp.com/
+
 ## References
 
 * Icons by [https://fontawesome.com/icons/]
